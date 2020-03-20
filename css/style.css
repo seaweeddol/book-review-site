@@ -1,0 +1,40 @@
+/* #efeaec
+#bdb1b7
+#3c4348
+#b57d60 */
+
+body {
+  background-color: #efeaec;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+main {
+  background-color: #efeaec;
+}
+
+h1,h2,h3 {
+  color: #b57d60;
+}
+
+a:hover {
+  color:  rgb(57, 66, 87)
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+section {
+  padding: 20px;
+}
+
+#top {
+  background-color: #bdb1b7;
+  border: 2px solid #b57d60;
+  padding: 20px;
+}
